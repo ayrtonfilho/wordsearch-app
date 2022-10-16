@@ -5,7 +5,7 @@
   </div>
 
 <h3>🏆 Projeto Desenvolvido: </h3>
-<p>Game desenvolvido como primeiro projeto, do primeiro semestre, da Faculdade de Engenharia da Computação. O Game, apesar da simplicidade, ajudou a entender muitos conceitos simples, que muita das vezes podem passar  despercebidos ou até mesmo não ter conhecimento em projetos mais avançados. O conhecimento foi excelente para a constução de novos saberes.</p>
+<p>Game desenvolvido como primeiro projeto, do primeiro semestre da Faculdade. O Game, apesar da simplicidade, ajudou a entender muitos conceitos simples, que muita das vezes podem passar  despercebidos ou até mesmo não ter conhecimento em projetos mais avançados. O conhecimento foi excelente para a constução de novos saberes.</p>
 
 
 <h3>🏗️ Tecnologias Usadas: </h3>
